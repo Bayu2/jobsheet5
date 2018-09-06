@@ -1,0 +1,17 @@
+# jobsheet5
+Latihan 1
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/Null.PNG)
+Latihan 2
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/Array.PNG)
+Latihan 3
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/ArithmeticException.PNG)
+Latihan 4
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/input.PNG)
+Latihan 5
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/Rutinme.PNG)
+Latihan 6
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/Clone.PNG)
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/ConvertString.PNG)
+Tugas Praktikum
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/Praktikum1.PNG)
+![alt text](https://github.com/Bayu2/jobsheet5/blob/master/jobsheet5/Praktium2.PNG)
